@@ -1,0 +1,15 @@
+.btn{
+    background-color: transparent;
+    border-radius: 20px;
+    color: #646efe;
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+    border: 1px solid #646efe;
+    margin: 0.5rem 0;
+}
+
+.active{
+    border: 1px solid #23509c;
+    background-color: #23509c;
+    color: white;
+}
