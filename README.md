@@ -12,3 +12,9 @@ npm install
 ```bash
 npm run dev
 ```
+
+### Live Preview
+
+```bash
+https://alpaca-image-generator-delta.vercel.app/
+```
